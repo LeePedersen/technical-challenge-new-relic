@@ -1,0 +1,160 @@
+2022-02-18T10:18:51,332-0700 [11227 1] com.newrelic INFO: Writing to New Relic log file: /home/jay/Desktop/Projects/java-getting-started/newrelic/logs/newrelic_agent.log
+2022-02-18T10:18:51,332-0700 [11227 1] com.newrelic INFO: JRE vendor Private Build version 17.0.1
+2022-02-18T10:18:51,332-0700 [11227 1] com.newrelic INFO: JVM vendor Private Build OpenJDK 64-Bit Server VM version 17.0.1+12-Ubuntu-120.04
+2022-02-18T10:18:51,332-0700 [11227 1] com.newrelic INFO: OS Linux version 5.4.0-100-generic arch amd64
+2022-02-18T10:18:51,332-0700 [11227 1] com.newrelic INFO: Agent Host: jay-ThinkPad-X1-Carbon-Gen-8 IP: 127.0.1.1
+2022-02-18T10:18:51,332-0700 [11227 1] com.newrelic INFO: New Relic Agent v7.5.0 is initializing...
+2022-02-18T10:18:51,829-0700 [11227 21] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-02-18T10:18:52,381-0700 [11227 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-02-18T10:18:52,564-0700 [11227 1] com.newrelic INFO: Setting audit_mode to false
+2022-02-18T10:18:52,667-0700 [11227 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/jay/Desktop/Projects/java-getting-started/newrelic/./newrelic.yml
+2022-02-18T10:18:52,672-0700 [11227 1] com.newrelic INFO: New Relic Agent v7.5.0 has started
+2022-02-18T10:18:52,672-0700 [11227 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@32a1bec0
+2022-02-18T10:18:52,672-0700 [11227 1] com.newrelic INFO: Premain startup complete in 1,804ms
+2022-02-18T10:18:55,204-0700 [11227 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.35
+2022-02-18T10:18:57,672-0700 [11227 39] com.newrelic INFO: Host name is jay-ThinkPad-X1-Carbon-Gen-8, display host jay-ThinkPad-X1-Carbon-Gen-8 for application Technical Challenge Sample App
+2022-02-18T10:18:57,672-0700 [11227 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-02-18T10:18:58,195-0700 [11227 39] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2022-02-18T10:18:58,594-0700 [11227 39] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-02-18T10:18:58,594-0700 [11227 39] com.newrelic INFO: Agent run id: BUxU9SOVCEVAADRA-SGxa3ZiD9VAAAIBAAAnIQEAACvbAgQfCealAwAFNy41LjAAHGpheS1UaGlua1BhZC1YMS1DYXJib24tR2VuLTgAHlRlY2huaWNhbCBDaGFsbGVuZ2UgU2FtcGxlIEFwcA
+2022-02-18T10:18:58,595-0700 [11227 39] com.newrelic INFO: Agent 11227@jay-ThinkPad-X1-Carbon-Gen-8/Technical Challenge Sample App connected to collector.newrelic.com:443
+2022-02-18T10:18:58,595-0700 [11227 39] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3424505/applications/520742565
+2022-02-18T10:18:58,596-0700 [11227 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-02-18T10:18:58,596-0700 [11227 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-02-18T10:18:58,596-0700 [11227 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-02-18T10:18:58,598-0700 [11227 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-02-18T10:18:58,598-0700 [11227 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-02-18T10:18:58,598-0700 [11227 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-02-18T10:18:58,953-0700 [11227 39] com.newrelic INFO: Real user monitoring is enabled for application Technical Challenge Sample App. Auto instrumentation is enabled.
+2022-02-18T10:18:58,953-0700 [11227 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-02-18T10:27:53,677-0700 [11227 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2022-02-18T10:27:53,693-0700 [11227 428] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@541c402 tried to finish but ServiceManager not started
+2022-02-18T10:27:53,950-0700 [11227 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2022-02-18T10:28:09,476-0700 [12387 1] com.newrelic INFO: Writing to New Relic log file: /home/jay/Desktop/Projects/java-getting-started/newrelic/logs/newrelic_agent.log
+2022-02-18T10:28:09,476-0700 [12387 1] com.newrelic INFO: JRE vendor Private Build version 17.0.1
+2022-02-18T10:28:09,476-0700 [12387 1] com.newrelic INFO: JVM vendor Private Build OpenJDK 64-Bit Server VM version 17.0.1+12-Ubuntu-120.04
+2022-02-18T10:28:09,476-0700 [12387 1] com.newrelic INFO: OS Linux version 5.4.0-100-generic arch amd64
+2022-02-18T10:28:09,476-0700 [12387 1] com.newrelic INFO: Agent Host: jay-ThinkPad-X1-Carbon-Gen-8 IP: 127.0.1.1
+2022-02-18T10:28:09,476-0700 [12387 1] com.newrelic INFO: New Relic Agent v7.5.0 is initializing...
+2022-02-18T10:28:09,914-0700 [12387 21] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-02-18T10:28:10,549-0700 [12387 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-02-18T10:28:10,743-0700 [12387 1] com.newrelic INFO: Setting audit_mode to false
+2022-02-18T10:28:10,839-0700 [12387 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/jay/Desktop/Projects/java-getting-started/newrelic/./newrelic.yml
+2022-02-18T10:28:10,843-0700 [12387 1] com.newrelic INFO: New Relic Agent v7.5.0 has started
+2022-02-18T10:28:10,844-0700 [12387 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@32a1bec0
+2022-02-18T10:28:10,844-0700 [12387 1] com.newrelic INFO: Premain startup complete in 1,848ms
+2022-02-18T10:28:13,672-0700 [12387 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.35
+2022-02-18T10:28:15,846-0700 [12387 39] com.newrelic INFO: Host name is jay-ThinkPad-X1-Carbon-Gen-8, display host jay-ThinkPad-X1-Carbon-Gen-8 for application Technical Challenge Sample App
+2022-02-18T10:28:15,848-0700 [12387 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-02-18T10:28:16,280-0700 [12387 39] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2022-02-18T10:28:16,577-0700 [12387 39] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-02-18T10:28:16,577-0700 [12387 39] com.newrelic INFO: Agent run id: BSmeH1eagHDKADRA-SGxa3ZiD9dcAAIBAAAnIQEAADBjAgQfCealAwAFNy41LjAAHGpheS1UaGlua1BhZC1YMS1DYXJib24tR2VuLTgAHlRlY2huaWNhbCBDaGFsbGVuZ2UgU2FtcGxlIEFwcA
+2022-02-18T10:28:16,577-0700 [12387 39] com.newrelic INFO: Agent 12387@jay-ThinkPad-X1-Carbon-Gen-8/Technical Challenge Sample App connected to collector.newrelic.com:443
+2022-02-18T10:28:16,577-0700 [12387 39] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3424505/applications/520742565
+2022-02-18T10:28:16,579-0700 [12387 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-02-18T10:28:16,579-0700 [12387 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-02-18T10:28:16,579-0700 [12387 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-02-18T10:28:16,580-0700 [12387 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-02-18T10:28:16,580-0700 [12387 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-02-18T10:28:16,580-0700 [12387 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-02-18T10:28:17,101-0700 [12387 39] com.newrelic INFO: Real user monitoring is enabled for application Technical Challenge Sample App. Auto instrumentation is enabled.
+2022-02-18T10:28:17,102-0700 [12387 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-02-18T10:33:57,935-0700 [12387 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2022-02-18T10:33:57,949-0700 [12387 428] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@1f8f3a73 tried to finish but ServiceManager not started
+2022-02-18T10:33:58,094-0700 [12387 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2022-02-18T10:34:08,123-0700 [13334 1] com.newrelic INFO: Writing to New Relic log file: /home/jay/Desktop/Projects/java-getting-started/newrelic/logs/newrelic_agent.log
+2022-02-18T10:34:08,123-0700 [13334 1] com.newrelic INFO: JRE vendor Private Build version 17.0.1
+2022-02-18T10:34:08,123-0700 [13334 1] com.newrelic INFO: JVM vendor Private Build OpenJDK 64-Bit Server VM version 17.0.1+12-Ubuntu-120.04
+2022-02-18T10:34:08,124-0700 [13334 1] com.newrelic INFO: OS Linux version 5.4.0-100-generic arch amd64
+2022-02-18T10:34:08,124-0700 [13334 1] com.newrelic INFO: Agent Host: jay-ThinkPad-X1-Carbon-Gen-8 IP: 127.0.1.1
+2022-02-18T10:34:08,124-0700 [13334 1] com.newrelic INFO: New Relic Agent v7.5.0 is initializing...
+2022-02-18T10:34:08,569-0700 [13334 21] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-02-18T10:34:09,226-0700 [13334 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-02-18T10:34:09,431-0700 [13334 1] com.newrelic INFO: Setting audit_mode to false
+2022-02-18T10:34:09,545-0700 [13334 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/jay/Desktop/Projects/java-getting-started/newrelic/./newrelic.yml
+2022-02-18T10:34:09,550-0700 [13334 1] com.newrelic INFO: New Relic Agent v7.5.0 has started
+2022-02-18T10:34:09,551-0700 [13334 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@32a1bec0
+2022-02-18T10:34:09,551-0700 [13334 1] com.newrelic INFO: Premain startup complete in 1,858ms
+2022-02-18T10:34:12,406-0700 [13334 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.35
+2022-02-18T10:34:14,550-0700 [13334 39] com.newrelic INFO: Host name is jay-ThinkPad-X1-Carbon-Gen-8, display host jay-ThinkPad-X1-Carbon-Gen-8 for application Technical Challenge Sample App
+2022-02-18T10:34:14,552-0700 [13334 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-02-18T10:34:15,098-0700 [13334 39] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2022-02-18T10:34:15,504-0700 [13334 39] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-02-18T10:34:15,504-0700 [13334 39] com.newrelic INFO: Agent run id: BdGnXavnvgJpADRA-SGxa3ZiD9jEAAIBAAAnIQEAADQWAgQfCealAwAFNy41LjAAHGpheS1UaGlua1BhZC1YMS1DYXJib24tR2VuLTgAHlRlY2huaWNhbCBDaGFsbGVuZ2UgU2FtcGxlIEFwcA
+2022-02-18T10:34:15,505-0700 [13334 39] com.newrelic INFO: Agent 13334@jay-ThinkPad-X1-Carbon-Gen-8/Technical Challenge Sample App connected to collector.newrelic.com:443
+2022-02-18T10:34:15,505-0700 [13334 39] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3424505/applications/520742565
+2022-02-18T10:34:15,506-0700 [13334 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-02-18T10:34:15,506-0700 [13334 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-02-18T10:34:15,506-0700 [13334 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-02-18T10:34:15,508-0700 [13334 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-02-18T10:34:15,508-0700 [13334 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-02-18T10:34:15,508-0700 [13334 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-02-18T10:34:15,915-0700 [13334 39] com.newrelic INFO: Real user monitoring is enabled for application Technical Challenge Sample App. Auto instrumentation is enabled.
+2022-02-18T10:34:15,916-0700 [13334 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-02-18T10:36:13,393-0700 [13334 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2022-02-18T10:36:13,407-0700 [13334 428] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@70a29beb tried to finish but ServiceManager not started
+2022-02-18T10:36:13,571-0700 [13334 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2022-02-18T10:36:22,626-0700 [14041 1] com.newrelic INFO: Writing to New Relic log file: /home/jay/Desktop/Projects/java-getting-started/newrelic/logs/newrelic_agent.log
+2022-02-18T10:36:22,626-0700 [14041 1] com.newrelic INFO: JRE vendor Private Build version 17.0.1
+2022-02-18T10:36:22,626-0700 [14041 1] com.newrelic INFO: JVM vendor Private Build OpenJDK 64-Bit Server VM version 17.0.1+12-Ubuntu-120.04
+2022-02-18T10:36:22,626-0700 [14041 1] com.newrelic INFO: OS Linux version 5.4.0-100-generic arch amd64
+2022-02-18T10:36:22,626-0700 [14041 1] com.newrelic INFO: Agent Host: jay-ThinkPad-X1-Carbon-Gen-8 IP: 127.0.1.1
+2022-02-18T10:36:22,627-0700 [14041 1] com.newrelic INFO: New Relic Agent v7.5.0 is initializing...
+2022-02-18T10:36:23,112-0700 [14041 21] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-02-18T10:36:23,715-0700 [14041 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-02-18T10:36:23,933-0700 [14041 1] com.newrelic INFO: Setting audit_mode to false
+2022-02-18T10:36:24,041-0700 [14041 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/jay/Desktop/Projects/java-getting-started/newrelic/./newrelic.yml
+2022-02-18T10:36:24,046-0700 [14041 1] com.newrelic INFO: New Relic Agent v7.5.0 has started
+2022-02-18T10:36:24,046-0700 [14041 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@32a1bec0
+2022-02-18T10:36:24,046-0700 [14041 1] com.newrelic INFO: Premain startup complete in 1,910ms
+2022-02-18T10:36:26,988-0700 [14041 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.35
+2022-02-18T10:36:29,045-0700 [14041 39] com.newrelic INFO: Host name is jay-ThinkPad-X1-Carbon-Gen-8, display host jay-ThinkPad-X1-Carbon-Gen-8 for application Technical Challenge Sample App
+2022-02-18T10:36:29,046-0700 [14041 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-02-18T10:36:29,757-0700 [14041 39] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2022-02-18T10:36:30,040-0700 [14041 39] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-02-18T10:36:30,040-0700 [14041 39] com.newrelic INFO: Agent run id: BUD2N8q6_OufADRA-SGxa3ZiD9l4AAIBAAAnIQEAADbZAgQfCealAwAFNy41LjAAHGpheS1UaGlua1BhZC1YMS1DYXJib24tR2VuLTgAHlRlY2huaWNhbCBDaGFsbGVuZ2UgU2FtcGxlIEFwcA
+2022-02-18T10:36:30,041-0700 [14041 39] com.newrelic INFO: Agent 14041@jay-ThinkPad-X1-Carbon-Gen-8/Technical Challenge Sample App connected to collector.newrelic.com:443
+2022-02-18T10:36:30,041-0700 [14041 39] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3424505/applications/520742565
+2022-02-18T10:36:30,042-0700 [14041 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-02-18T10:36:30,042-0700 [14041 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-02-18T10:36:30,042-0700 [14041 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-02-18T10:36:30,043-0700 [14041 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-02-18T10:36:30,044-0700 [14041 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-02-18T10:36:30,044-0700 [14041 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-02-18T10:36:30,468-0700 [14041 39] com.newrelic INFO: Real user monitoring is enabled for application Technical Challenge Sample App. Auto instrumentation is enabled.
+2022-02-18T10:36:30,469-0700 [14041 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-02-18T10:47:37,217-0700 [14041 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2022-02-18T10:47:37,231-0700 [14041 428] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@15e1b6a7 tried to finish but ServiceManager not started
+2022-02-18T10:47:37,437-0700 [14041 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
+2022-02-18T10:47:47,785-0700 [15358 1] com.newrelic INFO: Writing to New Relic log file: /home/jay/Desktop/Projects/java-getting-started/newrelic/logs/newrelic_agent.log
+2022-02-18T10:47:47,785-0700 [15358 1] com.newrelic INFO: JRE vendor Private Build version 17.0.1
+2022-02-18T10:47:47,786-0700 [15358 1] com.newrelic INFO: JVM vendor Private Build OpenJDK 64-Bit Server VM version 17.0.1+12-Ubuntu-120.04
+2022-02-18T10:47:47,786-0700 [15358 1] com.newrelic INFO: OS Linux version 5.4.0-100-generic arch amd64
+2022-02-18T10:47:47,786-0700 [15358 1] com.newrelic INFO: Agent Host: jay-ThinkPad-X1-Carbon-Gen-8 IP: 127.0.1.1
+2022-02-18T10:47:47,786-0700 [15358 1] com.newrelic INFO: New Relic Agent v7.5.0 is initializing...
+2022-02-18T10:47:48,219-0700 [15358 21] com.newrelic INFO: Instrumentation com.newrelic.instrumentation.jdbc-resultset is disabled. Skipping.
+2022-02-18T10:47:48,773-0700 [15358 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+2022-02-18T10:47:48,953-0700 [15358 1] com.newrelic INFO: Setting audit_mode to false
+2022-02-18T10:47:49,051-0700 [15358 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/jay/Desktop/Projects/java-getting-started/newrelic/./newrelic.yml
+2022-02-18T10:47:49,056-0700 [15358 1] com.newrelic INFO: New Relic Agent v7.5.0 has started
+2022-02-18T10:47:49,056-0700 [15358 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@32a1bec0
+2022-02-18T10:47:49,056-0700 [15358 1] com.newrelic INFO: Premain startup complete in 1,699ms
+2022-02-18T10:47:51,800-0700 [15358 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.35
+2022-02-18T10:47:54,055-0700 [15358 39] com.newrelic INFO: Host name is jay-ThinkPad-X1-Carbon-Gen-8, display host jay-ThinkPad-X1-Carbon-Gen-8 for application Technical Challenge Sample App
+2022-02-18T10:47:54,056-0700 [15358 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-02-18T10:47:54,520-0700 [15358 39] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+2022-02-18T10:47:55,131-0700 [15358 39] com.newrelic INFO: Max payload size is 1,000,000 bytes
+2022-02-18T10:47:55,131-0700 [15358 39] com.newrelic INFO: Agent run id: Bc0LQ1qh5tkWADRA-SGxa3ZiD9wMAAIBAAAnIQEAADv-AgQfCealAwAFNy41LjAAHGpheS1UaGlua1BhZC1YMS1DYXJib24tR2VuLTgAHlRlY2huaWNhbCBDaGFsbGVuZ2UgU2FtcGxlIEFwcA
+2022-02-18T10:47:55,132-0700 [15358 39] com.newrelic INFO: Agent 15358@jay-ThinkPad-X1-Carbon-Gen-8/Technical Challenge Sample App connected to collector.newrelic.com:443
+2022-02-18T10:47:55,132-0700 [15358 39] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/3424505/applications/520742565
+2022-02-18T10:47:55,133-0700 [15358 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-02-18T10:47:55,134-0700 [15358 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-02-18T10:47:55,134-0700 [15358 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-02-18T10:47:55,135-0700 [15358 39] com.newrelic INFO: Using default collector host: collector.newrelic.com
+2022-02-18T10:47:55,135-0700 [15358 39] com.newrelic INFO: Using default metric ingest URI: https://metric-api.newrelic.com/metric/v1
+2022-02-18T10:47:55,135-0700 [15358 39] com.newrelic INFO: Using default event ingest URI: https://insights-collector.newrelic.com/v1/accounts/events
+2022-02-18T10:47:55,546-0700 [15358 39] com.newrelic INFO: Real user monitoring is enabled for application Technical Challenge Sample App. Auto instrumentation is enabled.
+2022-02-18T10:47:55,547-0700 [15358 39] com.newrelic INFO: New Relic JFR Monitor is disabled: JFR config has not been enabled in the Java agent.
+2022-02-18T10:49:22,386-0700 [15358 15] com.newrelic.agent.core.CoreServiceImpl INFO: JVM is shutting down
+2022-02-18T10:49:22,418-0700 [15358 428] com.newrelic INFO: Transaction com.newrelic.agent.Transaction@5b7a21d1 tried to finish but ServiceManager not started
+2022-02-18T10:49:22,648-0700 [15358 15] com.newrelic.agent.core.CoreServiceImpl INFO: New Relic Agent has shutdown
